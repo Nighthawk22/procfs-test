@@ -1,6 +1,6 @@
 # procfs-test
 
-Testing failing docker-compose build with procfs dependency.
+Testing failing docker-compose version 1.19.0, build 9e633ef on Mac OSx build with procfs dependency.
 
 Just run `docker-compose up --build`  inside the repo and it will fail with the following stacktrace:
 
